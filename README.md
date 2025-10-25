@@ -7,6 +7,7 @@ A full-stack Application for student registration management.
 - **Frontend:** React.js, CSS3
 - **Backend:** Node.js, Express.js, Mongoose
 - **Database:** MongoDB
+- **Code Editor:** Visual Studio Code
 
 ## ✨ Features
 
