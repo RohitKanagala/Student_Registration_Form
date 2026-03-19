@@ -20,21 +20,21 @@ A full-stack Application for student registration management.
 ## 📁 Project Structure
 student-registration-project/
 │
-├── server/ # Backend
-│ ├── config/db.js # Database connection
-│ ├── models/Student.js # Student schema
-│ ├── controllers/studentController.js
-│ ├── routes/studentRoutes.js
-│ ├── server.js # Main server file
-│ └── .env # Environment variables
+├── server/                  # Backend
+│   ├── config/db.js         # Database connection
+│   ├── models/Student.js    # Student schema
+│   ├── controllers/studentController.js
+│   ├── routes/studentRoutes.js
+│   ├── server.js            # Main server file
+│   └── .env                 # Environment variables
 │
-├── client/ # Frontend
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── RegistrationForm.jsx
-│ │ │ └── RegistrationForm.css
-│ │ ├── App.js
-│ │ └── App.css
-│ └── package.json
+├── client/                  # Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── RegistrationForm.jsx
+│   │   │   └── RegistrationForm.css
+│   │   ├── App.js
+│   │   └── App.css
+│   └── package.json
 │
 └── README.md
